@@ -1,13 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\public",
-    "\\public\\assets",
-    "\\src",
-    "\\src\\assets",
-    "\\src\\lib",
-    "\\src\\slides"
+    "\\public"
   ],
-  "SelectedNode": "\\src\\slides\\15_Aventure.svelte",
+  "SelectedNode": "\\src",
   "PreviewInSolutionExplorer": false
 }

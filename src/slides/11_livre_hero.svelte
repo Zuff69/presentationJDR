@@ -25,14 +25,32 @@
 		</div>
 	</section>
 	<section>
-		<h6 style="margin-top: -5px;">Bande Dessiné dont vous êtes le héro</h6>
-		<img  class="BD" alt="BDs Jeux" src="../../assets/bd_jeux.jpg" />
+		<h6 style="margin-top: -15px; margin-bottom: 0px;">Bande Dessinée dont vous êtes le héro</h6>
+		<div>
+			<img class="img3L" alt="" src="../../assets/pif.jpg" />
+			<img class="img3L" alt="" src="../../assets/mickey.jpg" />
+			<img class="img3L" alt="" src="../../assets/asterix.jpg" />
+		</div>
+		<div >
+			<img class="img3L"   alt="" src="../../assets/astrapi.jpg" />
+			<img class="img3L"   alt="" src="../../assets/Deadpool.jpg" />
+			<img class="img3L"   alt="" src="../../assets/ebene.jpg" />	
+		</div>	
+
 	</section>
 	<section>
-			<h6 style="margin-top: -5px;">Les jeux dont vous êtes le héro</h6>
-		<img class="img3" alt="Kriegsspiele" src="../../assets/as_as.jpg" />
-		<img class="img3" alt="Wargame classique" src="../../assets/sherif.jpg" />
-		<img class="img3" alt="Wargame a figurine" src="../../assets/as_dragon.jpg" />
+		<h6 style="margin-top: -15px; margin-bottom: 0px;">Les jeux dont vous êtes le héro</h6>
+
+		<div>
+			<img class="img3L" alt="Kriegsspiele" src="../../assets/as_as.jpg" />
+			<img class="img3L" alt="Wargame classique" src="../../assets/sherif.jpg" />
+			<img class="img3L" alt="Wargame a figurine" src="../../assets/lost_worlds.jpg" />
+		</div>
+		<div >
+			<img class="img3L"   alt="" src="../../assets/nuit.jpg" />
+			<img class="img3L"   alt="" src="../../assets/sherlock.jpg" />
+			<img class="img3L"   alt="" src="../../assets/cartaventura.jpg" />	
+		</div>	
 	</section>
 	<section>
 		<h6 style="margin-top: -5px;">Les livres Escape-game</h6>

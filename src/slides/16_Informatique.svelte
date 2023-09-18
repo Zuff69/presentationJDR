@@ -22,6 +22,10 @@
 		<h6>action-RPG (A-RPG)</h6>
 		<img  alt="aventure textuel"  class="imageADD" src="../../assets/zelda.jpg" />	
 	</section>
+		<section>
+		<h6>RPG Japonais (J-RPG)</h6>
+		<img  alt="aventure textuel"  class="imageADD" src="../../assets/dragon-quest.avif" />	
+	</section>
 	<section>
 		<h6>Roguelike</h6>
 		<img  alt="aventure textuel"  class="imageADD" src="../../assets/roguelike.jpg" />	

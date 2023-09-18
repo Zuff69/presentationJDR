@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\dist",
+    "\\dist\\assets",
     "\\public"
   ],
-  "SelectedNode": "\\src",
+  "SelectedNode": "\\dist\\assets\\index.8c94cf6f.js",
   "PreviewInSolutionExplorer": false
 }
